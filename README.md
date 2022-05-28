@@ -1,5 +1,5 @@
-# golang-cli-
+# golang-cli-gcd <br>
 
-#USAGE
-go cli.go integer integer
-example : go cli.go 6 4 
+#USAGE <br>
+ go cli.go integer integer <br>
+ example : go cli.go 6 4  <br>
